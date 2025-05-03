@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/bbcf66be-3ec5-499c-948e-b79245d08ca0)
 
 # 👋 Hi there! I'm Sanath Kumar
 
