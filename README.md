@@ -30,7 +30,7 @@ NGINX + Node.js + MySQL app demonstrating Docker container networking.
 
 ### ☁️ AWS Config Rules Deployment via Terraform
 CI/CD pipeline for deploying config rules across AWS accounts using `AssumeRole`.  
-🔗 [Coming Soon or Private]
+🔗 [Coming Soon]
 
 
 ## 💡 Skills & Tools
@@ -53,8 +53,6 @@ CI/CD pipeline for deploying config rules across AWS accounts using `AssumeRole`
 - 🔗 [LinkedIn – Sanath Kumar](https://www.linkedin.com/in/sanath-kumar-is-here/)
 - 🐙 GitLab: `@SanathKumar619`
 - ✉️ Open to collaborations and learning opportunities! sanathkumarsanath3@gmail.com
-
----
 
 > “Build. Break. Automate. Secure.” — That’s how I grow every day 🚀
 
