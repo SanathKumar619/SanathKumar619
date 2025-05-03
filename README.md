@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bbcf66be-3ec5-499c-948e-b79245d08ca0)
+
 # 👋 Hi there! I'm Sanath Kumar
 
 Welcome to my GitHub profile! I'm a DevOps Engineer with 2.5+ years of hands-on experience in automating infrastructure, building CI/CD pipelines, containerization, and cloud deployments — now setting my sights on cybersecurity and ethical hacking.
