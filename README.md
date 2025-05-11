@@ -1,7 +1,7 @@
 
 # 👋 Hi there! I'm Sanath Kumar
 
-Welcome to my GitHub profile! I'm a DevOps Engineer with 2.5+ years of hands-on experience in automating infrastructure, building CI/CD pipelines, containerization, and cloud deployments — now setting my sights on cybersecurity and ethical hacking.
+Welcome to my GitHub profile! I'm a DevOps Engineer with 3+ years of hands-on experience in automating infrastructure, building CI/CD pipelines, containerization, and cloud deployments — now setting my sights on cybersecurity and ethical hacking.
 
 ## 🚀 What I Do
 
